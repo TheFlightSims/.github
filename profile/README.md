@@ -1,15 +1,18 @@
-![Open Source at Microsoft](https://github.com/TheFlightSims/.github/blob/main/images/open-at-microsoft.png) 
+![TheFlightSims OSS Program](https://github.com/TheFlightSims/.github/blob/main/images/opening.png)
 
-## Get Involved
+## Getting started
 
-Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
+Welcome to TheFlightSims Open-Source Program - where you can join any role, and participate in the development of any program or service you want.
 
-* [Explore featured projects](https://opensource.microsoft.com/projects/)
-* [Explore open source jobs at Microsoft](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
-* [Apply for Azure credits for open source projects](https://opensource.microsoft.com/azure-credits)
+For the best practice, you can look up these guides:
 
-Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more!
+* [Getting started in Open-Source projects]()
+* [Licenses, Credits and Attributions on the TheFlightSims platforms]()
+* [Report problems, abuse to TheFlightSims administrators]()
+* [Software Limitations for complex systems]()
 
-----
+---
+In case you are a TheFlightSims employee, you may see these guides in oder to help the contributors:
 
-Microsoft projects adopt the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
+* [Administration Guide]()
+* [Employee restrictions on open source projects]()
