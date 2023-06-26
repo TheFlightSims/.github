@@ -15,4 +15,4 @@ For the best practice, you can look up these guides:
 In case you are a TheFlightSims employee, you may see these guides in oder to help the contributors:
 
 * [Administration Guide]()
-* [Employee restrictions on open source projects]()
+* [Employee responsibilities in Open-Source projects]()
