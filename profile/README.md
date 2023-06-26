@@ -7,7 +7,7 @@ Welcome to TheFlightSims Open-Source Program - where you can join any role, and 
 For the best practice, you can look up these guides:
 
 * [Getting started in Open-Source projects, including privacy policies]()
-* [Licenses, Credits and Attributions on the TheFlightSims platforms]()
+* [Licenses, Credits and Attributions]()
 * [Report problems, abuse to TheFlightSims administrators]()
 * [Software Limitations for complex systems]()
 
