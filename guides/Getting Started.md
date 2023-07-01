@@ -1,66 +1,81 @@
-# Definitions
-
-* **You, or your organization**: a [individual](https://dictionary.cambridge.org/dictionary/english/individual), or the [organization](https://dictionary.cambridge.org/dictionary/english/organization) that are not affiliated by TheFlightSims, or at least not affiliated in some projects that you, or your organization parterned with TheFlightSims (in that case, you, or your organization becomes a part of us, called partners).
-
-* **Partners**: a [individual](https://dictionary.cambridge.org/dictionary/english/individual), or the [organization](https://dictionary.cambridge.org/dictionary/english/organization) that are not affiliated by TheFlightSims, but take responsibilities some certains on TheFlightSims projects, following the signed treaty between TheFlightSims and partners.
-
-* **Open source software (OSS)**: is computer software that is released under a license in which the copyright holder grants users the rights to use, study, change, and distribute the software and its source code to anyone and for any purpose. All OSSs are totally free software. See more [here](https://en.wikipedia.org/wiki/Open-source_software)
-
-* **Closed-source software (or a.k.a proprietary software)**: is software where only the author owns all rights to use, modify, and copy it. The closed-source software can be divived into 2 types:
-
-  + Free-software: 
-
-  +
-# Getting started
+# Getting Started
 
 ## About this Getting started
 
-This documents helps you to identify which project you may love, and how you can contribute.
+This document helps you to identify which project you may be interested in and how you can contribute.
 
-In addition, we also require [Privacy Policy](#privacy-policy) between us *(meaning employees of TheFlightSims or official insiders of TheFlightSims)* and you *(meaning those who are contribute outside of TheFlightSims, work as a volunteer or your organization is not affiliated in any way with TheFlightSims' open source project)* that we and you will adhere to these guidelines to protect protect the privacy between you (described roles above) and us (described roles above).
+In addition, we also require [Privacy Policy](#privacy-policy) between us and you that you and we will adhere to these guidelines to protect the privacy.
 
-We will notify you whenever we change any of our official public social media policies.
-
-In case you can hear any changes from unofficial source, please note that it could be fake news. You can report them to us.
+We will notify you whenever we change our official public social media.
 
 ## Short descriptions about us
 
-TheFlightSims is a small research group, mainly targeting the Aviation industry.
+TheFlightSims is a small research group mainly targeting the Aviation industry.
 
 So far, we have developed technologies that may interest you:
 
 * [Windows Server Administration Tools](https://github.com/TheFlightSims/windowsserver-mgmttools)
-* [Aviation Scenery Development Tools, including the pre-installed library](https://github.com/TheFlightSims/XPlane-Tools)
-* [Research Labs - based on Jupyterlab, but for enterprise](https://github.com/TheFlightSims/XPlane-Tools)
-* Quantum Computing and its applications (already integrated into the [Research Labs](https://github.com/TheFlightSims/XPlane-Tools))
 
-Note that the above list is a public repository only and may not be an exhaustive list of what TheFlightSims is actually doing.
+* [Aviation Scenery Development Tools, including the pre-installed libraries](https://github.com/TheFlightSims/XPlane-Tools)
 
-You can see the employee list at [TheFlightSims Organization People](https://github.com/orgs/TheFlightSims/people).
+* [Research Labs - based on Jupyterlab, but for enterprise.](https://github.com/TheFlightSims/research-labs)
+
+* Quantum Computing and its applications (already integrated into the [Research Labs](https://github.com/TheFlightSims/research-labs))
+
+> Note that the above list is a public repository only and may not be an exhaustive list of what TheFlightSims is doing.
+
+You can see the employee list at TheFlightSims Organization People.
+
+# Definitions
+
+* **You, or your organization**: an individual or the organization that is not affiliated with TheFlightSims, or at least not affiliated with some projects that you or your organization partnered with TheFlightSims *(in that case, you or your organization becomes a part of us, called partners)*. See below to know who are our partners.
+
+* **Partners**: an individual or the organization that is not affiliated with TheFlightSims, but takes responsibility for specific TheFlightSims projects, following the signed treaty between TheFlightSims and partners.
+
+* **We/Us**: TheFlightSims, or TheFlightSims' partners.
+
+* **Open source software (OSS)**: computer software released under a license in which the copyright holder grants users the rights to use, study, change, and distribute the software and its source code to anyone and for any purpose. All open-source software is free software.
+
+  * At TheFlightSims, all open-source software does not collect user data, except the project accessibilities (including software assignment data and the error that only you mention your reported issue).
+
+* **Open source project**: is the project that makes Open source software(s)
+
+* **Closed-source software (a.k.a proprietary software)**: is software where only the author owns all rights to use, modify, and copy it. There are two types of closed-source software:
+
+  * ***Free software***: Computer software distributed under terms that allow users to run the software for any purpose and to study, change, and distribute it and any adapted versions. Free software is a matter of liberty, not price; all users are legally free to do what they want with their copies of free software (including profiting from them) regardless of how much is paid to obtain the program. See here for details.
+
+  * *Paid software*: Computer software developed to make a profit.
 
 # Contributing to OSS
 
-Our [`standard`](https://dictionary.cambridge.org/dictionary/english/standard) project is the a repository that contains:
+Our standard project is the repository that contains the following:
 
-* Linked into at least 01 licenses. This license may not TheFlightSims standard licenses (e.g. MIT License, GNU GPL 3.0, Creative Commons).
-* Clear instructions in source codes, `readme` documents, including how computer behave at some points.
-* Opening for anyone to report their issues in `issues` page.
-* Protect main branches (note that a project can contains multiple main branches), requiring administrators to merge these branches.
-* Wikis, well-explained how the application behave to new users.
+* Linked into at least 01 license. This license may not TheFlightSims standard license (e.g. MIT License, GNU GPL 3.0, Creative Commons).
 
-In an open source project, each part of the source code is divided equally in folders or branches. Sometimes, you need to read the instructions carefully to manipulate your ideas into the project.
+* Clear instructions in source codes and readme documents, including how computers behave at some points.
 
-Normally, an contribution instruction contains these guides:
+* Opening for anyone to report their issues on the issues page.
+
+* Protect main branches (note that a project can contain multiple branches), requiring administrators to merge these branches.
+
+* Wikis well-explained how the application behaves to new users.
+
+In an open-source project, each part of the source code is divided equally into folders or branches. Sometimes, you must read the instructions carefully to manipulate your ideas into the project.
+
+Typically, a contribution instruction contains these guides:
 
 * Front-end development guide, including CLI/GUI instruction.
-* Back-end development guide, including security, and code connectors.
+* Back-end development guide, including security and code connectors.
 
-Most of instructions can be seen as:
+Most of the instructions can be seen as follows:
 
 * Repository `README.md`.
+
 * Repository folder: `help`, `guide`, `pictures`.
+
 * Project wiki page.
-* Sometimes, you can see them in our public webpage.
+
+* Sometimes, you can see them on our public webpage.
 
 # Privacy Policy
 
@@ -71,65 +86,65 @@ Note:
 3. This Privacy Policy can be changed for various reasons. When this happens, we will notificate you.
 ```
 
-TheFlightSims built the .github app as an Open Source app. This SERVICE is provided by TheFlightSims at no cost and is intended for use as is.
-
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
-
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+TheFlightSims provides OSS projects at no cost and is intended for use as is.
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at .github unless otherwise defined in this Privacy Policy.
 
-**Information Collection and Use**
+## **Information Collection and Use + Log Data**
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to as. The information that we request will be retained by us and used as described in this privacy policy.
+If you use our software, you also agree that:
 
-The app does use third-party services that may collect information used to identify you.
+* 1. We do not collect your personal information on open-source software. We only collect information about the software, including the number of downloads and software bug reports you submitted. In addition, we do not collect other information.
 
-Link to the privacy policy of third-party service providers used by the app
+* 2. We may require data collection to enhance the user experience for closed-source software. You can block crawlers to protect your privacy.
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Facebook](https://www.facebook.com/about/privacy/update/printable)
-*   [Unity](https://unity3d.com/legal/privacy-policy)
+* 3. You should be aware that if a third party uses our software to integrate or reuse the software for their products, that means:
 
-**Log Data**
+  * **a.** If the software used by a third party contains open-source software from TheFlightSims, we will not collect users' personal information. If so, third parties can only collect and use that data.e used by the third-party includes both open-source and closed-source software from TheFlight
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+  * **b.** If the software used by a third party contains closed-source software from TheFlightSims, that means that we may collect and use it as long as there is consent between all parties involved, including TheFlightSims, end users, partners, and third parties providing products and services. You may request to display all relevant information collection rights to third parties to understand the software product better.
 
-**Cookies**
+  * **c.** If the softwarSims, you need to understand that we collect data only from the closed-source software we have recommended access above.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
-
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
-
-**Service Providers**
+## **Service Providers**
 
 We may employ third-party companies and individuals due to the following reasons:
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+```markdown
+To facilitate our Service;
+To provide the Service on our behalf;
+To perform Service-related services; or
+To assist us in analyzing how our Service is used.
+```
 
 We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-**Security**
+## **Security**
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+We value your trust in providing us with your Personal Information. Thus, we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
-**Links to Other Sites**
+## **Links to Other Sites**
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+This Service may contain links to other sites. You will be directed to that site if you click on a third-party link. Note that we do not operate these external sites. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for any third-party sites or services' content, privacy policies, or practices.
 
-**Children’s Privacy**
+## **Children's Privacy**
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
+These Services do not address anyone under the age of 10. We do not knowingly collect personally identifiable information from children under 13. If we discover a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you know that your child has provided us with personal information, please contact us so that we can take the necessary actions.
 
-**Changes to This Privacy Policy**
+> Note: The reason for the lower number of age is our special for special employee 10-13 years old. That means, you can become to our employee at this very early.
+
+## **Changes to This Privacy Policy**
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 This policy is effective as of 2023-07-01
 
-**Contact Us**
+Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at administrator@theflightsims.tfs.
+If you have any questions or suggestions about our Privacy Policy, feel free to contact us at:
+
+* Discord
+
+* Email
+
+* Discussion on GitHub
