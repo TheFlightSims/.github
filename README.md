@@ -1,2 +1,3 @@
-# .github
-Default Community Health Files for the Microsoft organization on GitHub
+# About
+
+This repo contains the documentations, including guides, our public logos, and contributing policies.
