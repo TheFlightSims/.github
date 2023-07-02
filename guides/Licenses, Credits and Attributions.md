@@ -6,18 +6,36 @@ This document assists users in identifying the licenses offered under projects, 
 
 ## Credit and Attribution
 
+To record your attribution, you have to contribute to our projects. You can do the following steps:
+
+* Contribute your code or bug fixes
+
+* Report a problem, including the mistake in coding and wikis
+
+* Sugguess new idea
+
+By default, your work will automatically be recorded by GitHub or our automatic system. However, if you don't see you on the credits/attribution list, you may need to contact us to solve this problem.
+
+In this case, please clearly write down:
+
+* Your contribution day
+
+* Contribution list, including the screenshot
+
+* Your valid personal/work email, GitHub account, Discord account name.
+
 ## License Usages
 
-Our official licenses are used by implement into any public licenses, such as:
+Our official licenses are used by implementing into any public licenses, such as:
 
-* [MIT License]()
+* [MIT License](https://github.com/TheFlightSims/.github/blob/main/licenses/MIT%20License)
 
-* [GNU GPL v3.0 License]()
+* [GNU GPL v3.0 License](https://github.com/TheFlightSims/.github/blob/main/licenses/GNU%20GPL%20v3.0%20License)
 
-* [Creative Common Licenses]()
+* [Creative Commons Licenses](https://creativecommons.org)
 
 ```markdown
-Note that you cannot use our embedded licenses standalone. You may read the the terms and conditions to continue
+Note that you cannot use our embedded licenses standalone. You may read the the terms and conditions of your selected license.
 ```
 
 ### OSS licenses
