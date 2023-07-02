@@ -4,6 +4,8 @@
 
 This document assists users in identifying the licenses offered under projects, the specification of the license, and the steps to get attribution.
 
+## Credit and Attribution
+
 ## License Usages
 
 ### OSS Licenses
@@ -80,7 +82,7 @@ All other differences between the free license:
 	</tr>
 	<tr>
 		<td>Used for OSS</td>
-		<td>Delete source
+		<td>Delete OSS
 			<br>on internal vulnerability
 			</td>
 			<td>Enterprise uses</td>
