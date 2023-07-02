@@ -123,4 +123,59 @@ All other differences between the free license:
   <td class='tick'>Yes</td>
   <td class='tick'>No</td>
   </tr>
+  <tr>
+  <td><code>TFS-CSFX</code></td>
+  <td>TheFlightSims free closed-source for Enterprise</td>
+  <td>TheFlightSims</td>
+  <td class='tick'>No</td>
+  <td class='tick'>No</td>
+  <td class='tick'>Yes</td>
+  <td class='tick'>Yes</td>
+  <td class='tick'>Yes</td>
+  <td class='tick'>No</td>
+  </tr>
+  <tr>
+  <td><code>TFS-CSFC</code></td>
+  <td>TheFlightSims free closed-source for Personal</td>
+  <td>TheFlightSims</td>
+  <td class='tick'>No</td>
+  <td class='tick'>No</td>
+  <td class='tick'>No</td>
+  <td class='tick'>No</td>
+  <td class='tick'>Yes</td>
+  <td class='tick'>No</td>
+  </tr>
+  <tr>
+  <td><code>TFS-CSPE</code></td>
+  <td>TheFlightSims paid closed-source for Education</td>
+  <td>TheFlightSims</td>
+  <td class='tick'>No</td>
+  <td class='tick'>No</td>
+  <td class='tick'>No</td>
+  <td class='tick'>Yes</td>
+  <td class='tick'>Yes</td>
+  <td class='tick'>Yes</td>
+  </tr>
+  <tr>
+  <td><code>TFS-CSPX</code></td>
+  <td>TheFlightSims paid closed-source for Enterprise</td>
+  <td>TheFlightSims</td>
+  <td class='tick'>No</td>
+  <td class='tick'>No</td>
+  <td class='tick'>Yes</td>
+  <td class='tick'>Yes</td>
+  <td class='tick'>Yes</td>
+  <td class='tick'>Yes</td>
+  </tr>
+  <tr>
+  <td><code>TFS-CSPC</code></td>
+  <td>TheFlightSims paid closed-source for Personal</td>
+  <td>TheFlightSims</td>
+  <td class='tick'>No</td>
+  <td class='tick'>No</td>
+  <td class='tick'>No</td>
+  <td class='tick'>No</td>
+  <td class='tick'>Yes</td>
+  <td class='tick'>Yes</td>
+  </tr>
 </table>
