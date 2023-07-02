@@ -8,8 +8,7 @@ For the best practice, you can look up these guides:
 
 * [Getting started in Open-Source projects, including privacy policies]()
 * [Licenses, Credits and Attributions]()
-* [Report problems, abuse to TheFlightSims administrators]()
-* [Software Limitations for complex systems]()
+* [Community Code of Conduct]()
 
 ---
 In case you are a TheFlightSims employee, you may see these guides in oder to help the contributors:
