@@ -8,7 +8,19 @@ This document assists users in identifying the licenses offered under projects, 
 
 ## License Usages
 
-### OSS Licenses
+Our official licenses are used by implement into any public licenses, such as:
+
+* [MIT License]()
+
+* [GNU GPL v3.0 License]()
+
+* [Creative Common Licenses]()
+
+```markdown
+Note that you cannot use our embedded licenses standalone. You may read the the terms and conditions to continue
+```
+
+### OSS licenses
 
 OSS Licenses allow contributors and developers can use, manipulate, deploy, and integrate source code into applications without permission from TheFlightSims and other contributors.
 
@@ -36,7 +48,7 @@ All other differences between the free license:
 
 #### License for payware
 
-The same between all licenses mentioned below is allowed in _profit-making_ but still restricted in *source code access, debugging, and disassembly* with the payware license.
+The same between all licenses mentioned below is allowed in *profit-making* but still restricted in *source code access, debugging, and disassembly* with the payware license.
 
 All other differences between the free license:
 
@@ -46,11 +58,11 @@ All other differences between the free license:
 
 * ***Enterprise*** allows all permission in the *Education* license. However, deploying applications and services for third-party is **ALLOWED**.
 
-# Valid licenses
+## Valid licenses
 
-## Official licenses
+### Official embedded licenses
 
-### Official Codename explanation
+#### Codename explanation
 
 * Open-source licenses: `TFS-OSS(x)`, where:
   * `TFS-OSS` is **TheFlightSims open-source project**
@@ -61,7 +73,7 @@ All other differences between the free license:
   * `(y)` a variable is whether the project can be `F` **(free)** or `P` **(paid)** software.
   * `(z)` a variable is whether the project customer types. `E` stands for **Education**, `X` stands for **Enterprise**, and `C` stands for **Personal**
 
-### Official Licenses (Table)
+#### Table licenses
 
 <table>
 	<tr>
