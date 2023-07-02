@@ -81,13 +81,46 @@ All other differences between the free license:
 		</td>
 	</tr>
 	<tr>
-		<td>Used for OSS</td>
-		<td>Delete OSS
-			<br>on internal vulnerability
+		<td><strong>Used for OSS</td>
+		<td><strong>Delete OSS
+			<br>on internal vulnerability</strong>
 			</td>
-			<td>Enterprise uses</td>
-			<td>Education uses</td>
-			<td>Personal uses</td>
-			<td>Allow to make profit</td>
+			<td><strong>Enterprise uses</strong></td>
+			<td><strong>Education uses</strong></td>
+			<td><strong>Personal uses</strong></td>
+			<td><strong>Allow to make profit</strong></td>
 		</tr>
-	</table>
+  <tr>
+  <td><code>TFS-OSSH</code></td>
+  <td>TheFlightSims self-hosting project</td>
+  <td>TheFlightSims</td>
+  <td class='tick'>Yes</td>
+  <td class='tick'>Yes</td>
+  <td class='tick'>Yes</td>
+  <td class='tick'>Yes</td>
+  <td class='tick'>Yes</td>
+  <td class='tick'>Yes</td>
+  </tr>
+  <tr>
+  <td><code>TFS-OSSC</code></td>
+  <td>TheFlightSims community-hosting project</td>
+  <td>TheFlightSims</td>
+  <td class='tick'>Yes</td>
+  <td class='tick'>No</td>
+  <td class='tick'>Yes</td>
+  <td class='tick'>Yes</td>
+  <td class='tick'>Yes</td>
+  <td class='tick'>Yes</td>
+  </tr>
+  <tr>
+  <td><code>TFS-CSFE</code></td>
+  <td>TheFlightSims free closed-source for Education</td>
+  <td>TheFlightSims</td>
+  <td class='tick'>No</td>
+  <td class='tick'>No</td>
+  <td class='tick'>No</td>
+  <td class='tick'>Yes</td>
+  <td class='tick'>Yes</td>
+  <td class='tick'>No</td>
+  </tr>
+</table>
