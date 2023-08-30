@@ -105,7 +105,7 @@ All other differences between the free license:
 			<strong>Provider</strong>
 		</th>
 		<td colspan="6">
-			<p style="text-align: center">
+			<p style="text-align: center" align="center">
 				<strong>License Usage</strong>
 			</p>
 		</td>
