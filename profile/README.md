@@ -2,7 +2,7 @@
 TheFlightSims Hackathon 2023 is happening. See more at https://github.com/TheFlightSims/hackathon-2023
 ```
 
-![TheFlightSims Event](https://github.com/TheFlightSims/hackathon-2023/blob/main/banner.png?raw=true)
+![TheFlightSims Event](https://github.com/TheFlightSims/.github/blob/main/images/opening.png?raw=true)
 
 ## Getting started
 
