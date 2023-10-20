@@ -1,3 +1,7 @@
+```markdown
+We are updating new policies for partners, which will be applied in early 2024. Stay tunned!
+```
+
 ![TheFlightSims Banner](https://github.com/TheFlightSims/.github/blob/main/images/opening.png?raw=true)
 
 ## Getting started
