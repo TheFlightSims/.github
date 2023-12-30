@@ -53,5 +53,3 @@ taken. The identity of the reporter will be omitted from the details of the
 report supplied to the accused. In potentially harmful situations, such as
 ongoing harassment or threats to anyone's safety, we may take action without
 notice.
-
-[IndieWeb Code of Conduct]: https://indieweb.org/code-of-conduct

@@ -8,7 +8,7 @@ TheFlightSims takes the security responsibilities  of our software products and 
 
 You can report security issues on these platforms:
 
-* The repository security page (Prefered)
+* The repository security page (Preferred)
 * [Email](mailto:welcome.tfs@outlook.com)
 
 If you prefer to report using email, we recommend encrypting your message with our PGP key; please download it from the [Microsoft Security Response Center PGP Key page](https://www.microsoft.com/msrc/pgp-key-msrc).
@@ -16,21 +16,15 @@ If you prefer to report using email, we recommend encrypting your message with o
 Please include the requested information listed below (as much as you can provide) to help us better understand the nature and scope of the possible issue:
 
 * Type of issue (e.g., buffer overflow, SQL injection, cross-site scripting)
-
 * Full paths of the source file(s) related to the manifestation of the issue
-
 * The location of the affected source code (tag/branch/commit or direct URL)
-
 * Any special configuration required to reproduce the issue
-
 * Step-by-step instructions to reproduce the issue
-
 * Proof-of-concept or exploit code (if possible)
-
 * Impact of the case, including how an attacker might control the issue
 
 This information will help us triage your report more quickly.
 
-# Preferred Languages
+## Preferred Languages
 
 You can use all human-valid languages. However, you may consider using English (US) to prevent misunderstanding.
