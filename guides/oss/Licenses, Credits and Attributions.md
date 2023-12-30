@@ -9,19 +9,15 @@ This document assists users in identifying the licenses offered under projects, 
 To record your attribution, you have to contribute to our projects. You can do the following steps:
 
 * Contribute your code or bug fixes
-
 * Report a problem, including the mistake in coding and wikis
-
-* Sugguess new idea
+* Suggest new idea
 
 By default, your work will automatically be recorded by GitHub or our automatic system. However, if you don't see you on the credits/attribution list, you may need to contact us to solve this problem.
 
 In this case, please clearly write down:
 
 * Your contribution day
-
 * Contribution list, including the screenshot
-
 * Your valid personal/work email, GitHub account, Discord account name.
 
 ## License Usages
@@ -29,14 +25,10 @@ In this case, please clearly write down:
 Our official licenses are used by implementing into any public licenses, such as:
 
 * [MIT License](https://github.com/TheFlightSims/.github/blob/main/licenses/MIT%20License)
-
 * [GNU GPL v3.0 License](https://github.com/TheFlightSims/.github/blob/main/licenses/GNU%20GPL%20v3.0%20License)
-
 * [Creative Commons Licenses](https://creativecommons.org)
 
-```markdown
-Note that you cannot use our embedded licenses standalone. You may read the the terms and conditions of your selected license.
-```
+> Note: you cannot use our embedded licenses standalone. You may read the the terms and conditions of your selected license.
 
 ### OSS licenses
 
@@ -59,9 +51,7 @@ The same between all licenses mentioned below is restricted in *profit-making, s
 All other differences between the free license:
 
 * ***Personal*** only allows for **individual** use. That means deploying application and services for third-party is **NOT ALLOWED**.
-
 * ***Education*** allows all permission in the *Personal* license + research. Students and Researchers can use it for their research programs. However, deploying applications and services for third-party is **NOT ALLOWED**.
-
 * ***Enterprise*** allows all permission in the *Education* license. However, deploying applications and services for third-party is **ALLOWED**, but you cannot profit from them.
 
 #### License for payware
@@ -71,9 +61,7 @@ The same between all licenses mentioned below is allowed in *profit-making* but 
 All other differences between the free license:
 
 * ***Personal*** only allows for individual use. That means deploying applications and services for third-party is **NOT ALLOWED**.
-
 * ***Education*** allows all permission in the *Personal* license + research. Students and Researchers can use it for their research programs. However, deploying applications and services for third-party is **NOT ALLOWED**.
-
 * ***Enterprise*** allows all permission in the *Education* license. However, deploying applications and services for third-party is **ALLOWED**.
 
 ## Valid licenses

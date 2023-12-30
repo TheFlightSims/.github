@@ -1,22 +1,26 @@
-```markdown
-We are updating new policies for partners, which will be applied in early 2024. Stay tunned!
-```
+
+> Wanna see our metaverse progress?
+>
+> Check out [@maton.net](https://github.com/matonnet)
 
 ![TheFlightSims Banner](https://github.com/TheFlightSims/.github/blob/main/images/opening.png?raw=true)
 
 ## Getting started
 
-Welcome to TheFlightSims Open-Source Program - where you can join any role and participate in developing any program or service you want.
+**Welcome to TheFlightSims. This welcome screen is designed for beginners, as well as the important organizational resources.**
 
-For the best practice, you can look up these guides:
-
-* [Getting started in Open-Source projects, including privacy policies](https://github.com/TheFlightSims/.github/blob/main/guides/Getting%20Started.md)
-* [Licenses, Credits, and Attributions](https://github.com/TheFlightSims/.github/blob/main/guides/Licenses%2C%20Credits%20and%20Attributions.md)
-* [Code of Conduct](https://github.com/TheFlightSims/.github/blob/main/guides/Code%20of%20Conduct.md)
-* [Security notes](https://github.com/TheFlightSims/.github/blob/main/guides/SECURITY.md)
+You can check out the [Getting started guide](https://github.com/TheFlightSims/.github/blob/main/guides/Getting%20Started.md), or [Privacy Policies](https://github.com/TheFlightSims/.github/blob/main/guides/Privacy%20Policies.md)
 
 ---
-In case you are a TheFlightSims employee, you may see these guides in order to help the contributors:
+For open-source contributors, check out these documents, so you won't miss out.
 
-* [Administration Guide](https://github.com/TheFlightSims/.github/blob/main/guides/Administration%20Guide.md)
-* [Employee responsibilities in Open-Source projects](https://github.com/TheFlightSims/.github/blob/main/guides/Employee%20responsibilities%20in%20Open-Source%20projects.md)
+* [Licenses, Credits, and Attributions](https://github.com/TheFlightSims/.github/blob/main/guides/oss/Licenses%2C%20Credits%20and%20Attributions.md)
+* [Code of Conduct](https://github.com/TheFlightSims/.github/blob/main/guides/oss/Code%20of%20Conduct.md)
+* [Security notes](https://github.com/TheFlightSims/.github/blob/main/guides/oss/SECURITY.md)
+
+---
+For official employee, read these documents.
+
+* [Initial employment agreement](https://github.com/TheFlightSims/.github/blob/main/guides/employee/Initial%20employment%20agreement.md)
+* [Administration Guide](https://github.com/TheFlightSims/.github/blob/main/guides/employee/Administration%20Guide.md)
+* [Employee responsibilities in Open-Source projects](https://github.com/TheFlightSims/.github/blob/main/guides/employee/Employee%20responsibilities%20in%20Open-Source%20projects.md)

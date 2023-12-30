@@ -8,9 +8,8 @@ TheFlightSims takes the security responsibilities  of our software products and 
 
 You can report security issues on these platforms:
 
-* [Discord]() (Direct Message is recommended)
 * The repository security page (Prefered)
-* [Email](mailto:theflightsims@gmail.com)
+* [Email](mailto:welcome.tfs@outlook.com)
 
 If you prefer to report using email, we recommend encrypting your message with our PGP key; please download it from the [Microsoft Security Response Center PGP Key page](https://www.microsoft.com/msrc/pgp-key-msrc).
 
