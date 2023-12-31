@@ -1,7 +1,5 @@
 
-> Wanna see our metaverse progress?
->
-> Check out [@maton.net](https://github.com/matonnet)
+> Wanna see our metaverse progress? Check out [@maton.net](https://github.com/matonnet)
 
 ![TheFlightSims Banner](https://github.com/TheFlightSims/.github/blob/main/images/opening.png?raw=true)
 
