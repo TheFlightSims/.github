@@ -11,8 +11,6 @@ You can report security issues on these platforms:
 * The repository security page (Preferred)
 * [Email](mailto:welcome.tfs@outlook.com)
 
-If you prefer to report using email, we recommend encrypting your message with our PGP key; please download it from the [Microsoft Security Response Center PGP Key page](https://www.microsoft.com/msrc/pgp-key-msrc).
-
 Please include the requested information listed below (as much as you can provide) to help us better understand the nature and scope of the possible issue:
 
 * Type of issue (e.g., buffer overflow, SQL injection, cross-site scripting)
