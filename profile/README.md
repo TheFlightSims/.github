@@ -7,7 +7,7 @@
 
 **Welcome to TheFlightSims. This welcome screen is designed for beginners, as well as the important organizational resources.**
 
-You can check out the [Getting started guide](https://github.com/TheFlightSims/.github/blob/main/guides/Getting%20Started.md), or [Privacy Policies](https://github.com/TheFlightSims/.github/blob/main/guides/Privacy%20Policies.md)
+You can check out the [Getting started](https://github.com/TheFlightSims/.github/blob/main/guides/Getting%20Started.md) and [Privacy Policies](https://github.com/TheFlightSims/.github/blob/main/guides/Privacy%20Policies.md)
 
 ---
 For open-source contributors, check out these documents, so you won't miss out.
