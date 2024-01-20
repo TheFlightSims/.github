@@ -1,5 +1,8 @@
-
-> Wanna see our metaverse progress? Check out [@maton.net](https://github.com/matonnet)
+> Other TheFlightSims departments and organizations:
+>
+> * [TheFlightSims Archive Program](https://github.com/tfsarchive) 
+> * [TheFlightSims Metadata](https://github.com/tfsmetadata) - Additional policies and standards
+> * [Maton.NET](https://github.com/matonnet) - TheFlightSims metaverse
 
 ![TheFlightSims Banner](https://github.com/TheFlightSims/.github/blob/main/images/opening.png?raw=true)
 
