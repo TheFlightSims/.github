@@ -4,7 +4,7 @@
 > * [TheFlightSims Metadata](https://github.com/tfsmetadata) - Additional policies and standards
 > * [Maton.NET](https://github.com/matonnet) - TheFlightSims metaverse
 
-![TheFlightSims Banner](https://github.com/TheFlightSims/.github/blob/main/images/Economic%20Depression.png?raw=true)
+![TheFlightSims Banner](https://github.com/TheFlightSims/.github/blob/main/images/opening.png?raw=true)
 
 ## Getting started
 
