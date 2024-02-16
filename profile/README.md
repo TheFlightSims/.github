@@ -1,10 +1,10 @@
 > Other TheFlightSims departments and organizations:
 >
 > * [TheFlightSims Archive Program](https://github.com/tfsarchive) 
-> * [TheFlightSims Metadata](https://github.com/tfsmetadata) - Additional policies and standards
+> * [TheFlightSims Internal Labs](https://github.com/tfslabs) - TheFlightSims Labs
 > * [Maton.NET](https://github.com/matonnet) - TheFlightSims metaverse
 
-![TheFlightSims Banner](https://github.com/TheFlightSims/.github/blob/main/images/Economic%20Depression.png?raw=true)
+![TheFlightSims Banner](https://github.com/TheFlightSims/.github/blob/main/images/opening.png?raw=true)
 
 ## Getting started
 
