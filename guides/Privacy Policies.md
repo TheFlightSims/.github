@@ -10,7 +10,7 @@
 
 * **Open source software (OSS)**: computer software released under a license in which the copyright holder grants users the rights to use, study, change, and distribute the software and its source code to anyone and for any purpose. All open-source software is free software.
 
-  * At TheFlightSims, all open-source software does not collect user data, except the project accessibilities (including software assignment data and the error that only you mention your reported issue).
+  * At TheFlightSims, all open-source software does not collect user data, except the project accessibility (including software assignment data and the error that only you mention your reported issue).
 
 * **Open source project**: is the project that makes Open source software(s)
 
@@ -20,12 +20,13 @@
 
   * *Paid software*: Computer software developed to make a profit.
 
-```markdown
-Note:
-1. Our Privacy Policy standards are affected globally, not limited in open source software projects.
-2. All definitions are already mentioned above.
-3. This Privacy Policy can be changed for various reasons. When this happens, we will inform you.
-```
+> :warning: **Note**
+>
+> 1. Our Privacy Policy standards are affected globally, not limited in open source software projects.
+>
+> 2. All definitions are already mentioned above.
+>
+> 3. This Privacy Policy can be changed for various reasons. When this happens, we will inform you.
 
 TheFlightSims provides OSS projects at no cost and is intended for use as is.
 
@@ -51,12 +52,10 @@ If you use our software, you also agree that:
 
 We may employ third-party companies and individuals due to the following reasons:
 
-```markdown
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-```
+* To facilitate our Service;
+* To provide the Service on our behalf;
+* To perform Service-related services; or
+* To assist us in analyzing how our Service is used.
 
 We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 

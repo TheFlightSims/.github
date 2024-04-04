@@ -1,6 +1,6 @@
 > Other TheFlightSims departments and organizations:
 >
-> * [TheFlightSims Archive Program](https://github.com/tfsarchive) 
+> * [TheFlightSims Archive Program](https://github.com/tfsarchive)
 > * [TheFlightSims Internal Labs](https://github.com/tfslabs) - TheFlightSims Labs
 > * [Maton.NET](https://github.com/matonnet) - TheFlightSims metaverse
 
