@@ -22,7 +22,6 @@ For open-source contributors, check out these documents, so you won't miss out.
 ---
 For official employee, read these documents.
 
-* [Initial employment agreement](https://github.com/TheFlightSims/.github/blob/main/guides/employee/Initial%20employment%20agreement.md)
 * [Administration Guide](https://github.com/TheFlightSims/.github/blob/main/guides/employee/Administration%20Guide.md)
 * [Employee responsibilities in Open-Source projects](https://github.com/TheFlightSims/.github/blob/main/guides/employee/Employee%20responsibilities%20in%20Open-Source%20projects.md)
 

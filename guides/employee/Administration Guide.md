@@ -8,7 +8,7 @@ Several resources are available to help you learn how to administer open-source 
 
 Here are some steps on how to write an open-source administration guide:
 
-1. Identify the target audience for your guide. This will help you determine the detail and technical information you must include.
+1. Identify the target audience for your guide. This will help you determine the details and technical information you must include.
 2. Gather information about the open-source software that you will be discussing. This includes the software's features, capabilities, and limitations.
 3. Organize your information into a logical structure. This will make it easier for your readers to find the necessary information.
 4. Write your guide in a clear and concise style. Use language that is easy to understand, and avoid technical jargon.
