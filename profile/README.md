@@ -4,7 +4,7 @@
 > * [TheFlightSims Internal Labs](https://github.com/tfslabs) - TheFlightSims Labs
 > * [Maton.NET](https://github.com/matonnet) - TheFlightSims metaverse
 
-![TheFlightSims Banner](https://github.com/TheFlightSims/.github/blob/main/images/opening.png?raw=true)
+![TheFlightSims Banner](https://github.com/TheFlightSims/.github/blob/main/opening.png?raw=true)
 
 ## Getting started
 
