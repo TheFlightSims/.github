@@ -1,3 +1,5 @@
+> Cleaning up projects and Restoring the Organization. It will take a few months to go.
+
 ![TheFlightSims Banner](https://github.com/TheFlightSims/.github/blob/main/opening.png?raw=true)
 
 > Other TheFlightSims departments and organizations:
