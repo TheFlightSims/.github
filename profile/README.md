@@ -4,8 +4,8 @@
 
 > Other TheFlightSims departments and organizations:
 >
-> * [TheFlightSims Archive Program](https://github.com/tfsarchive)
-> * [TheFlightSims Labs](https://github.com/tfslabs) - TheFlightSims Labs
+> * [TheFlightSims Archive & Publication Program](https://github.com/tfsarchive)
+> * [TheFlightSims Labs](https://github.com/tfslabs)
 
 ## Getting started
 
