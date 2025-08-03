@@ -4,9 +4,9 @@ At TheFlightSims, we recognize and celebrate the creativity and collaboration of
 source contributors and the diversity of skills, experiences, cultures, and
 opinions they bring to the projects and communities they participate in.
 
-Every one of the communities are inclusive environment, based on treating 
+Every one of the communities is an inclusive environment, based on treating 
 all individuals respectfully, regardless of
-gender identity and expression, sexual orientation, disabilities,
+gender identity and expression, sexual orientation, and disabilities,
 neurodiversity, physical appearance, body size, ethnicity, nationality, race,
 age, religion, or similar personal characteristics.
 
@@ -16,10 +16,10 @@ Respectful behavior includes:
 
 * Being considerate, kind, constructive, and helpful.
 * Not engaging in demeaning, discriminatory, harassing, hateful, sexualized, or
-  physically threatening behavior, speech, and imagery.
+ physically threatening behavior, speech, and imagery.
 * Not engaging in unwanted physical contact.
 
-Some TheFlightSims open-source projects may adopt an explicit project code of
+Some of TheFlightSims' open-source projects may adopt an explicit project code of
 conduct, which may have additional detailed expectations for participants. Most
 of those projects will use our modified Contributor Covenant.
 
@@ -38,10 +38,10 @@ environment where participants feel welcome and safe.
 
 ## Reporting problems
 
-Some TheFlightSims open-source projects may adopt a project-specific code of conduct.
+Some of TheFlightSims' open-source projects may adopt a project-specific code of conduct.
 In those cases, a TheFlightSims employee will be identified as the Project Steward,
 who will receive and handle reports of code of conduct violations. If a project hasn’t identified a Project Steward, you can report problems by
-emailing welcome.tfs@outlook.com.
+emailing mailto:report_concern@theflightsims.com
 
 We will investigate every complaint, but you may not receive a direct response.
 We will use our discretion in determining when and how to follow up on reported

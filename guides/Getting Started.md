@@ -6,24 +6,18 @@ This document helps you to identify which project you may be interested in and h
 
 In addition, we also require [Privacy Policy](https://github.com/TheFlightSims/.github/blob/main/guides/Privacy%20Policies.md) between us and you that you and we will adhere to these guidelines to protect the privacy.
 
-We will notify you whenever we change our official public social media.
-
-> Note that the above list is a public repository only and may not be an exhaustive list of what TheFlightSims is doing.
-
-You can see the employee list at TheFlightSims Organization People.
-
 ---
 For open-source contributors, check out these documents, so you won't miss out.
 
-* [Licenses, Credits, and Attributions](https://github.com/TheFlightSims/.github/blob/main/guides/oss/Licenses%2C%20Credits%20and%20Attributions.md)
+* [Credits and Attribution](https://github.com/TheFlightSims/.github/blob/main/guides/oss/Credits%20and%20Attribution.md)
 * [Code of Conduct](https://github.com/TheFlightSims/.github/blob/main/guides/oss/Code%20of%20Conduct.md)
 * [Security notes](https://github.com/TheFlightSims/.github/blob/main/guides/oss/SECURITY.md)
+* [Licenses](https://github.com/TheFlightSims/.github/blob/main/guides/Licenses.md)
 
 ---
 For official employee, read these documents.
 
-* [Administration Guide](https://github.com/TheFlightSims/.github/blob/main/guides/employee/Administration%20Guide.md)
-* [Employee responsibilities in Open-Source projects](https://github.com/TheFlightSims/.github/blob/main/guides/employee/Employee%20responsibilities%20in%20Open-Source%20projects.md)
+* [Administration Guide for GitHub Admins](https://github.com/TheFlightSims/.github/blob/main/guides/employee/Administration%20Guide.md)
 
 ## Open-source standards
 
